@@ -1,0 +1,48 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body {
+	background-image:url("../../day4/44627b5148fd6ed38539ba7504d32648.jpg");
+
+}
+
+.myclass {
+    background-color:#CDCDCD;
+    text-align: center;
+    font-size: 30px;
+	width: auto;
+	height: 80px;
+	font-family: 'Roboto Mono', monospace;
+}
+
+#text{
+    text-align: center;
+    padding-top: 14px;
+}
+.lijstje {
+    background-color:#999A9A;
+	width: 1200px;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#new {
+	float: right;
+	margin-left: 255px;
+	margin-top: -200px;
+}
+
+.poep {
+    border-radius: 19px;	
+	float:left;
+	margin-left: 40px;
+	margin-top: 40px;
+	
+}
+
+
+
+
+
+
